@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hey there, I'm Josip! 👋
 
+🚀As a programmer, I'm passionate about creating apps and products that make life easier for people!
+
+💡I'm dedicated to making these apps as accessible as possible to a wide audience, with minimal cost to the users.
+
+🌟 Plus, I'm all about packing them with advanced features to enhance your experience!
 <!--
 **JosipPardon/JosipPardon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
